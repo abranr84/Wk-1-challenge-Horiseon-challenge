@@ -20,4 +20,4 @@ The following image shows what the completed exercise should display.
  
  Here is the link to the completed exercise for week 1-Horiseon semantic challenge.
 
- ![Completed exercise for week 1-Horiseon semantic challenge.]()
+ ![Completed exercise for week 1-Horiseon semantic challenge.](abranr84.github.io/Wk-1-challenge-Horiseon-challenge)
